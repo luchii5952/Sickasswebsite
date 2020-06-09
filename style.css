@@ -1,0 +1,18 @@
+img.resize {
+    max-width:30%;
+    max-height:30%;
+  }
+
+body {
+    background-image: url(https://images.assetsdelivery.com/compings_v2/mcherevan/mcherevan1810/mcherevan181000154.jpg); 
+    background-size: 200% 100%;}
+
+.aligncenter {
+    text-align: center;
+    align-items: center;
+}
+
+li { 
+    color: slateblue;
+    font-size: 40px;
+}
